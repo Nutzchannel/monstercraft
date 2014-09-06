@@ -2,7 +2,7 @@
 {
   "modid": "monstercraft",
   "name": "MonsterCraft",
-  "description": "Example placeholder mod.",
+  "description": "Unofficial Monstercat Minecraft mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
