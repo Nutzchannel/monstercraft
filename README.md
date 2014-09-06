@@ -8,3 +8,9 @@ You install this mod like Hackery, or any other ForgeGradle mod. Here's what to 
   1. Clone the repository (or just download the .zip and extract it to a folder)
   2. Open your command line, navigate to the folder, and run `gradlew clean setupCIWorkspace build`
   3. you'll find the .jar in `build\libs`
+
+To-Do list
+------------
+  - Boss "The Munsta"
+  - Tamable Artist mods
+  - Music disks with releases (ask for permission)
