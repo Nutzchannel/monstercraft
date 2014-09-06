@@ -5,10 +5,10 @@
   "description": "Unofficial Monstercat Minecraft mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://github.com/Nutzchannel/monstercraft",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Nutzchannel","Github"],
+  "credits": "Thanks to KJ4IPS for showing me how to use this, hackery ftw",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
