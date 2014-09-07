@@ -15,6 +15,7 @@ To-Do list
   - Tamable Artist mods
   - Music disks with releases (ask for permission)
   - Weapons with song names (razor sharp) and make them upgradable (new style)
+
 Dependencies
 ------------
 No dependencies needed. Not tested with other mods.
