@@ -1,3 +1,4 @@
+/*
 // begin package
 package com.nutz.monstercraft.generic;
 // end package
@@ -14,3 +15,4 @@ public void preInit(FMLPreInitialization preInitEvent) {
   GameRegistry.registerItem(item1, "item1");
 }
 //end code
+*/
