@@ -14,6 +14,7 @@ To-Do list
   - Boss "The Munsta"
   - Tamable Artist mods
   - Music disks with releases (ask for permission)
+    - CDs (com.nutz.monstercraft.items.ItemCD
   - Weapons with song names (razor sharp) and make them upgradable (new style)
 
 Dependencies
