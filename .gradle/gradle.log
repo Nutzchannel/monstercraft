@@ -16,4 +16,8 @@ The runDir should be the location where you want MC to be run, usually he parent
 
 BUILD SUCCESSFUL
 
+<<<<<<< HEAD
 Total time: 16.259 secs
+=======
+Total time: 11.57 secs
+>>>>>>> origin/master
